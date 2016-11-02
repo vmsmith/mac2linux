@@ -33,7 +33,7 @@
 * Bluetooth
 * Scrivener
 
- ### Documents and Such
+### Documents and Such
  
 * Working documents in Dropbox  
 * Old NRL data files in ~/Data  
