@@ -30,20 +30,20 @@
 * DVD player  
 * Movie player  
 * DVD ripper  
-* Bluetooth  
+* Bluetooth
 * Scrivener
 
  ### Documents and Such
  
- * Working documents in Dropbox  
- * Old NRL data files in ~/Data  
- * A few things on Desktop  
- * LFS 7.1 source files in ~/Documents/LFS/71_Sources  
- * Bunch of stuff to review in ~/Downloads  
- * Bunch of flying lesson videos in ~/Movies  
- * Ton of music in iTunes (~/Music)  
- * Ton of photos in ~/Pictures  
- * Some stuff in ~/Software  
+* Working documents in Dropbox  
+* Old NRL data files in ~/Data  
+* A few things on Desktop  
+* LFS 7.1 source files in ~/Documents/LFS/71_Sources  
+* Bunch of stuff to review in ~/Downloads  
+* Bunch of flying lesson videos in ~/Movies  
+* Ton of music in iTunes (~/Music)  
+* Ton of photos in ~/Pictures  
+* Some stuff in ~/Software  
  
 
 
