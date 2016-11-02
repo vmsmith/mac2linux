@@ -10,4 +10,4 @@ I got my first Mac in 2009 or '10 for my birthday. It was a 15" MacBook Pro. The
 * Second, I didn't realize that Mac -- the entire PC world probably -- was in the process of switching from hard drives to SSDs, and I got a machine with a hard drive.
 * Finally, had I been paying real attention, I would have gotten a 13" instead of a 15" (which is an anchor to carry around).
 
-The main issue turned out to be #2.
+The main issue turned out to be #2. As the operating systems kept getting upgraded, the Mac kept getting slower and slower to respond. What I finally realized (or was told on Reddit) was that current OS upgrades are optimized for SSDs, and the hard drive was causing all the problems.
