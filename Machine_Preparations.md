@@ -14,4 +14,5 @@
 * Copied Desktop files
 * Copied LFS files
 * Copied Software files
+* Copied open links into a text file
 * Left iTunes files because they exist on another computer
