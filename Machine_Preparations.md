@@ -11,3 +11,7 @@
 * Copied NRL 5580 data  
 * Copied flying lesson videos
 * Copied pictures
+* Copied Desktop files
+* Copied LFS files
+* Copied Software files
+* Left iTunes files because they exist on another computer
