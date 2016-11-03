@@ -1,4 +1,4 @@
-<< [README](https://github.com/vmsmith/mac2linux/blob/master/README.md) < [Previous](https://github.com/vmsmith/mac2linux/blob/master/Baseline_Inventory.md) || Next > Appendices >>
+<< [README](https://github.com/vmsmith/mac2linux/blob/master/README.md) < [Previous](https://github.com/vmsmith/mac2linux/blob/master/Baseline_Inventory.md) || [Next](https://github.com/vmsmith/mac2linux/blob/master/Create_Boot_USB.md) > [Appendices]() >>
 
 ### Applications  
 * Disconnected Dropbox  
