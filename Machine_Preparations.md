@@ -1,3 +1,5 @@
+<< [README] < [Previous](https://github.com/vmsmith/mac2linux/blob/master/Baseline_Inventory.md) || Next > Appendices >>
+
 ### Applications  
 * Disconnected Dropbox  
 * Uninstalled Microsoft and Adobe products in case it unregisters the license
