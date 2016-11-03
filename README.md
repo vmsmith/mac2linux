@@ -1,5 +1,7 @@
 ### mac2linux
 
+[Next](https://github.com/vmsmith/mac2linux/blob/master/Baseline_Inventory.md) Appendices >>
+
 This documents the steps taken to convert a 15" MacBook Pro from OS X to Linux.
 
 #### Background
