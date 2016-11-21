@@ -21,6 +21,8 @@
 
 ![warning message](/images/Screen Shot 2016-11-21 at 11.37.03 AM.png)
 
-* 
+* Clicked on "Open" and got this:
 
 ![unexpected quit message](/images/Screen Shot 2016-11-21 at 11.32.14 AM.png)
+
+* Did some Googling and found this on an Apple help page: [If an application quits unexpectedly](https://help.apple.com/machelp/mac/10.7/help/index.html?lang=en#mchlp2579)
