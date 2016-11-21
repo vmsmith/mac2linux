@@ -13,8 +13,14 @@
   * `defaults write com.apple.screencapture location /Volumes/KINGSTON/screenshots/`
   * `killall SystemUIServer`
 
-* Tried to run `unetbootin-mac-625-dmg` and received a message that the application quit unexpectedly.
+* Ran `unetbootin-mac-625-dmg`. The first thing that appeared was the following:
 
-![GitHub Logo](/images/Screen Shot 2016-11-21 at 11.36.41 AM.png)
+![unetbootin files](/images/Screen Shot 2016-11-21 at 11.36.41 AM.png)
+
+* Double-clicked on the .app and got this:
+
+![warning message](/images/Screen Shot 2016-11-21 at 11.37.03 AM.png)
 
 * 
+
+![unexpected quit message](/images/Screen Shot 2016-11-21 at 11.32.14 AM.png)
