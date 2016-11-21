@@ -15,4 +15,6 @@
 
 * Tried to run `unetbootin-mac-625-dmg` and received a message that the application quit unexpectedly.
 
+![GitHub Logo](/images/Screen Shot 2016-11-21 at 11.36.41 AM.png)
+
 * 
