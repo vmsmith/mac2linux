@@ -1,10 +1,16 @@
 << [README](https://github.com/vmsmith/mac2linux/blob/master/README.md) < [Previous](https://github.com/vmsmith/mac2linux/blob/master/Machine_Preparations.md) || [Next]() > [Appendices]() >> 
 
 
-Downloaded `ubuntu-16.04.1-desktop-amd64.iso` from [Ubuntu site](https://www.ubuntu.com/download/desktop).
+* Downloaded `ubuntu-16.04.1-desktop-amd64.iso` from [Ubuntu site](https://www.ubuntu.com/download/desktop).
 
-Downloaded `UNetbootin` from the [UNetbootin site](http://unetbootin.github.io/).
+* Downloaded `UNetbootin` from the [UNetbootin site](http://unetbootin.github.io/).
 
-Moved both files on to USB.
+* Moved both files on to USB.
 
-Ran `unetbootin-mac-625-dmg`.
+* Put .iso image on desktop.
+
+* Changed screen capture location to Kingston drive:
+  * `defaults write com.apple.screencapture location /Volumes/KINGSTON/screenshots/`
+  * `killall SystemUIServer`
+
+* Ran `unetbootin-mac-625-dmg`.
