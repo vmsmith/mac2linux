@@ -13,4 +13,6 @@
   * `defaults write com.apple.screencapture location /Volumes/KINGSTON/screenshots/`
   * `killall SystemUIServer`
 
-* Ran `unetbootin-mac-625-dmg`.
+* Tried to run `unetbootin-mac-625-dmg` and received a message that the application quit unexpectedly.
+
+* 
