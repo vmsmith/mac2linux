@@ -1,4 +1,4 @@
-<< [README](https://github.com/vmsmith/mac2linux/blob/master/README.md) < [Previous](https://github.com/vmsmith/mac2linux/blob/master/Machine_Preparations.md) || [Next]() > [Appendices]() >> 
+<< [README](https://github.com/vmsmith/mac2linux/blob/master/README.md) < [Previous](https://github.com/vmsmith/mac2linux/blob/master/Machine_Preparations.md) || [Next](https://github.com/vmsmith/mac2linux/blob/master/Installing_Applications.md) > [Appendices]() >> 
 
 
 * Downloaded `ubuntu-16.04.1-desktop-amd64.iso` from [Ubuntu site](https://www.ubuntu.com/download/desktop).
