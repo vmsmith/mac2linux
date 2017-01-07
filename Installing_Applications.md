@@ -4,7 +4,13 @@ No problems
 Installed the VLC media player using:  
     `sudo get-apt updates`      
     `sudo get-apt install vlc`    
-No problems  
+The first DVD I tried would not play. Googled and found I need to install `libdvdcss`, `libdvdread4`, and `libdvdnav4`.  
+    `sudo get-apt install libdvdcss libdvdread4 libdvdnav4`  
+Got message:  
+    `libdvdcss` is not available.
+I checked and the other two are installed.
+Googled around a bit, and got to here: http://askubuntu.com/questions/487949/ubuntu-14-04-and-libdvdcss-file. No luck
+
   
 Installed abcde CD ripper using:  
     `sudo get-apt install abcde`        
