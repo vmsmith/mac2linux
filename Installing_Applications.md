@@ -8,8 +8,9 @@ The first DVD I tried would not play. Googled and found I need to install `libdv
     `sudo get-apt install libdvdcss libdvdread4 libdvdnav4`  
 Got message:  
     `libdvdcss` is not available.
-I checked and the other two are installed.
-Googled around a bit, and got to here: http://askubuntu.com/questions/487949/ubuntu-14-04-and-libdvdcss-file. No luck
+I checked and the other two are installed.https://ubuntuforums.org/showthread.php?t=2312060 
+Googled around a bit, and got to here: http://askubuntu.com/questions/487949/ubuntu-14-04-and-libdvdcss-file. No luck. 
+Found this page, too: https://ubuntuforums.org/showthread.php?t=2312060
 
   
 Installed abcde CD ripper using:  
