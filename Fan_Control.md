@@ -5,4 +5,6 @@ Apparently there is an application, [macfanctld](https://www.howtoinstall.co/en/
     sudo apt-get update
     sudo apt-get install macfanctld
 
+[manpage](http://manpages.ubuntu.com/manpages/zesty/man1/macfanctld.1.html)
+
 I will try this. The next step is figuring out why Firefox is causing this.
