@@ -1,4 +1,4 @@
-[Master Plan](https://github.com/vmsmith/things/blob/master/To_Do.md)
+[Master Plan](https://github.com/vmsmith/things/blob/master/to_do.md)
 
 ### mac2linux
 
