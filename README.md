@@ -6,7 +6,9 @@
 
 [Next](https://github.com/vmsmith/mac2linux/blob/master/Baseline_Inventory.md) Appendices >>
 
-This documents the steps taken to convert a 15" MacBook Pro from OS X to Linux.
+This documents the steps taken to convert a 11" MacBook Air from OS X to Ubuntu Linux 18.04.
+
+[Touchpad](https://int3ractive.com/2018/09/make-the-best-of-MacBook-touchpad-on-Ubuntu.html) & [related blog](https://williambharding.com/blog/technology/toward-a-linux-touchpad-as-smooth-as-macbook-pro/)
 
 #### Background
 
