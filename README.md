@@ -8,7 +8,14 @@
 
 This documents the steps taken to convert a 11" MacBook Air from OS X to Ubuntu Linux 18.04.
 
-[Touchpad](https://int3ractive.com/2018/09/make-the-best-of-MacBook-touchpad-on-Ubuntu.html) & [related blog](https://williambharding.com/blog/technology/toward-a-linux-touchpad-as-smooth-as-macbook-pro/)
+[Touchpad](https://int3ractive.com/2018/09/make-the-best-of-MacBook-touchpad-on-Ubuntu.html) & [related blog](https://williambharding.com/blog/technology/toward-a-linux-touchpad-as-smooth-as-macbook-pro/)  
+
+[20 Things To Do](https://itsfoss.com/things-to-do-after-installing-ubuntu-18-04/)  
+
+[Gnome](https://itsfoss.com/gnome-tricks-ubuntu/)  
+
+[Reddit - "I did it"](https://www.reddit.com/r/linux4noobs/comments/9qpfes/i_did_it/)
+
 
 #### Background
 
