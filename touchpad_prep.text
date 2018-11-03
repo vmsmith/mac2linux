@@ -1,0 +1,30 @@
+# Update Ubuntu to latest packages
+sudo apt update && sudo apt upgrade
+
+# These dependencies were noted by me on default Ubuntu 18.04
+sudo apt install build-essential git pkg-config libmtdev-dev mtdev-tools xserver-xorg-dev xutils-dev
+
+-----
+
+# execute line by line:
+cd /tmp
+git clone https://github.com/p2rkw/xf86-input-mtrack.git
+cd xf86-input-mtrack
+./configure --with-xorg-module-dir=/usr/lib/xorg/modules
+sudo make
+
+-----
+
+sudo make install
+
+-----
+
+touch 50-mtrack.conf
+
+-----
+
+Instert touchpad code  
+
+-----
+
+cp 50-mtrack.conf /usr/share/X11/xorg.conf.d/50-mtrack.conf
