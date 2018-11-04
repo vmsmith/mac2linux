@@ -1,4 +1,6 @@
-[things/README](https://github.com/vmsmith/things/blob/master/README.md)
+[things/README](https://github.com/vmsmith/things/blob/master/README.md)  
+
+[Linux Journey](https://linuxjourney.com/)  
 
 [To Do](https://github.com/vmsmith/things/blob/master/to_do.md)
 
