@@ -13,3 +13,21 @@ Enable repositories with GNOME app
 sudo apt install libdvd-pkg  
 
 sudo dpkg-reconfigure libdvd-pkg  
+
+-----  
+
+# Install media codex  
+
+sudo apt install ubuntu-restricted-extras  
+
+Note: Need to tab through various menus to make this work
+
+-----  
+
+# Install flatpak  
+
+sudo apt install flatpak  
+
+sudo apt install gnome-software-plugin-flatpak
+
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
