@@ -1,0 +1,15 @@
+# Update software
+
+sudo apt update && sudo apt upgrade  
+
+-----  
+
+Enable repositories with GNOME app  
+
+-----
+
+# Enable DVD  
+
+sudo apt install libdvd-pkg  
+
+sudo dpkg-reconfigure libdvd-pkg  
