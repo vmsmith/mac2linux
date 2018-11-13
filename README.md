@@ -18,7 +18,9 @@ This documents the steps taken to convert a 11" MacBook Air from OS X to Ubuntu 
 
 [Reddit - "I did it"](https://www.reddit.com/r/linux4noobs/comments/9qpfes/i_did_it/)  
 
-['find' command](https://www.binarytides.com/linux-find-command-examples/)
+['find' command](https://www.binarytides.com/linux-find-command-examples/)  
+
+[More on the 'find' command](https://www.linux.com/blog/2018/11/beyond-finding-stuff)  
 
 [How to setup...keyboard](https://lobotuerto.com/blog/how-to-setup-ubuntu-on-a-macbook-pro/)  
 
