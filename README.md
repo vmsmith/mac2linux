@@ -16,7 +16,15 @@ This documents the steps taken to convert a 11" MacBook Air from OS X to Ubuntu 
 
 [Gnome](https://itsfoss.com/gnome-tricks-ubuntu/)  
 
-[Reddit - "I did it"](https://www.reddit.com/r/linux4noobs/comments/9qpfes/i_did_it/)
+[Reddit - "I did it"](https://www.reddit.com/r/linux4noobs/comments/9qpfes/i_did_it/)  
+
+['find' command](https://www.binarytides.com/linux-find-command-examples/)
+
+[How to setup...keyboard](https://lobotuerto.com/blog/how-to-setup-ubuntu-on-a-macbook-pro/)  
+
+[Learning Linux](https://linuxjourney.com/)  
+
+[BASH completion script](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html)
 
 
 #### Background
